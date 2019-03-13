@@ -7,7 +7,7 @@
 - Python
 - Ansible
 - Kubectl 
-- Minikube
+- Minikube (Optional)
 
 ## Practical Test
 ### 1. Kubernetes
